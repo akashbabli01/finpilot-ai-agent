@@ -1,0 +1,358 @@
+date,description,amount,type
+2026-04-01,Salary Credit - TechCorp Solutions,125000.0,credit
+2026-04-03,Amazon India,2126.0,debit
+2026-04-03,Instamart Mart,1814.0,debit
+2026-04-04,Uniqlo Store,3063.0,debit
+2026-04-04,Swiggy Order,638.0,debit
+2026-04-04,Blinkit Grocery,3133.0,debit
+2026-04-05,HDFC Bank Rent Auto-Debit,35000.0,debit
+2026-04-06,Nature's Basket,2628.0,debit
+2026-04-08,Swiggy Order,471.0,debit
+2026-04-08,Blinkit Grocery,1283.0,debit
+2026-04-08,Shell Fuel Station,685.0,debit
+2026-04-08,Netflix Subscription,649.0,debit
+2026-04-09,Ola Cabs,1293.0,debit
+2026-04-10,BESCOM Electricity Bill,2225.0,debit
+2026-04-10,Instamart Mart,2969.0,debit
+2026-04-10,Ola Cabs,755.0,debit
+2026-04-11,Apollo Pharmacy,1893.0,debit
+2026-04-12,Nature's Basket,1714.0,debit
+2026-04-12,Spotify Premium AutoPay,119.0,debit
+2026-04-13,Zomato Restaurant,763.0,debit
+2026-04-14,Shell Fuel Station,385.0,debit
+2026-04-14,Third Wave Coffee,684.0,debit
+2026-04-15,Client Payout - Upwork Escrow,22000.0,credit
+2026-04-15,Cult.fit Gym Membership,1750.0,debit
+2026-04-15,Namma Metro Recharge,991.0,debit
+2026-04-15,Instamart Mart,2739.0,debit
+2026-04-16,Namma Metro Recharge,802.0,debit
+2026-04-17,Blinkit Grocery,1553.0,debit
+2026-04-17,Amazon India,4595.0,debit
+2026-04-17,Airtel Xstream Broadband,1179.0,debit
+2026-04-19,Blue Tokai Coffee,700.0,debit
+2026-04-19,Zepto Supermarket,2038.0,debit
+2026-04-19,Zomato Restaurant,650.0,debit
+2026-04-20,Practo Consultation,2074.0,debit
+2026-04-20,Google One Storage,210.0,debit
+2026-04-20,Instamart Mart,2278.0,debit
+2026-04-21,Social Bar & Kitchen,770.0,debit
+2026-04-21,Uniqlo Store,3667.0,debit
+2026-04-21,Zomato Restaurant,1050.0,debit
+2026-04-22,Blinkit Grocery,2456.0,debit
+2026-04-22,Namma Metro Recharge,1060.0,debit
+2026-04-22,Namma Metro Recharge,542.0,debit
+2026-04-22,Ola Cabs,914.0,debit
+2026-04-22,Myntra Fashion,4744.0,debit
+2026-04-22,Zomato Restaurant,773.0,debit
+2026-04-23,Starbucks Coffee,633.0,debit
+2026-04-23,Swiggy Order,1063.0,debit
+2026-04-23,Blue Tokai Coffee,673.0,debit
+2026-04-23,Uniqlo Store,3942.0,debit
+2026-04-24,Zepto Supermarket,2308.0,debit
+2026-04-25,Shell Fuel Station,1447.0,debit
+2026-04-26,Apollo Pharmacy,1896.0,debit
+2026-04-27,Blinkit Grocery,2781.0,debit
+2026-04-28,Uber Ride,719.0,debit
+2026-04-28,Uber Ride,896.0,debit
+2026-04-28,BigBasket Order,1222.0,debit
+2026-05-01,Salary Credit - TechCorp Solutions,125000.0,credit
+2026-05-02,Amazon India,4586.0,debit
+2026-05-03,Zara Clothing,4924.0,debit
+2026-05-03,Blinkit Grocery,2102.0,debit
+2026-05-03,Namma Metro Recharge,944.0,debit
+2026-05-05,HDFC Bank Rent Auto-Debit,35000.0,debit
+2026-05-05,Instamart Mart,2758.0,debit
+2026-05-06,Zepto Supermarket,2950.0,debit
+2026-05-06,Namma Metro Recharge,747.0,debit
+2026-05-07,Shell Fuel Station,1197.0,debit
+2026-05-08,Netflix Subscription,649.0,debit
+2026-05-08,Nature's Basket,1335.0,debit
+2026-05-08,Uber Ride,448.0,debit
+2026-05-08,Ola Cabs,1348.0,debit
+2026-05-09,Swiggy Order,407.0,debit
+2026-05-09,Blue Tokai Coffee,685.0,debit
+2026-05-09,Swiggy Order,469.0,debit
+2026-05-09,Swiggy Order,630.0,debit
+2026-05-09,Myntra Fashion,3164.0,debit
+2026-05-09,Amazon India,3315.0,debit
+2026-05-10,BESCOM Electricity Bill,2856.0,debit
+2026-05-11,Nature's Basket,1714.0,debit
+2026-05-11,Blue Tokai Coffee,808.0,debit
+2026-05-11,Max Healthcare,1084.0,debit
+2026-05-12,Social Bar & Kitchen,421.0,debit
+2026-05-12,Social Bar & Kitchen,472.0,debit
+2026-05-12,Zepto Supermarket,1561.0,debit
+2026-05-12,Spotify Premium AutoPay,119.0,debit
+2026-05-14,Nature's Basket,2227.0,debit
+2026-05-15,Namma Metro Recharge,1206.0,debit
+2026-05-15,Apollo Pharmacy,1299.0,debit
+2026-05-15,Apollo Pharmacy,837.0,debit
+2026-05-15,Cult.fit Gym Membership,1750.0,debit
+2026-05-16,Ola Cabs,1114.0,debit
+2026-05-17,Airtel Xstream Broadband,1179.0,debit
+2026-05-17,Ola Cabs,1354.0,debit
+2026-05-17,Uniqlo Store,2375.0,debit
+2026-05-17,Blinkit Grocery,1358.0,debit
+2026-05-18,Swiggy Order,862.0,debit
+2026-05-19,Zepto Supermarket,1880.0,debit
+2026-05-19,Social Bar & Kitchen,635.0,debit
+2026-05-20,Instamart Mart,1222.0,debit
+2026-05-20,Google One Storage,210.0,debit
+2026-05-22,Third Wave Coffee,782.0,debit
+2026-05-22,BigBasket Order,1183.0,debit
+2026-05-23,Namma Metro Recharge,975.0,debit
+2026-05-24,Instamart Mart,2846.0,debit
+2026-05-24,Swiggy Order,1046.0,debit
+2026-05-25,Uber Ride,451.0,debit
+2026-05-26,Blue Tokai Coffee,605.0,debit
+2026-05-26,Zepto Supermarket,3061.0,debit
+2026-05-27,Zara Clothing,1901.0,debit
+2026-05-27,Namma Metro Recharge,1083.0,debit
+2026-05-27,Uber Ride,759.0,debit
+2026-05-28,Instamart Mart,3108.0,debit
+2026-06-01,Salary Credit - TechCorp Solutions,125000.0,credit
+2026-06-02,Uber Ride,404.0,debit
+2026-06-02,Social Bar & Kitchen,869.0,debit
+2026-06-03,Shell Fuel Station,1442.0,debit
+2026-06-03,Instamart Mart,1677.0,debit
+2026-06-03,Uber Ride,933.0,debit
+2026-06-04,Namma Metro Recharge,816.0,debit
+2026-06-04,Starbucks Coffee,650.0,debit
+2026-06-05,HDFC Bank Rent Auto-Debit,35000.0,debit
+2026-06-05,Instamart Mart,1139.0,debit
+2026-06-06,Amazon India,2762.0,debit
+2026-06-06,Zepto Supermarket,1134.0,debit
+2026-06-07,Namma Metro Recharge,1379.0,debit
+2026-06-08,Nature's Basket,2852.0,debit
+2026-06-08,Max Healthcare,550.0,debit
+2026-06-08,Shell Fuel Station,1285.0,debit
+2026-06-08,Netflix Subscription,649.0,debit
+2026-06-09,Amazon India,2948.0,debit
+2026-06-10,Blinkit Grocery,2980.0,debit
+2026-06-10,Starbucks Coffee,535.0,debit
+2026-06-10,1mg Medicines,2138.0,debit
+2026-06-10,BESCOM Electricity Bill,2913.0,debit
+2026-06-10,Swiggy Order,518.0,debit
+2026-06-11,Third Wave Coffee,561.0,debit
+2026-06-11,Ola Cabs,952.0,debit
+2026-06-11,Blue Tokai Coffee,1026.0,debit
+2026-06-12,Spotify Premium AutoPay,119.0,debit
+2026-06-12,Instamart Mart,1180.0,debit
+2026-06-13,Amazon India,5181.0,debit
+2026-06-13,Myntra Fashion,4293.0,debit
+2026-06-14,Instamart Mart,2553.0,debit
+2026-06-15,Client Payout - Upwork Escrow,42000.0,credit
+2026-06-15,Cult.fit Gym Membership,1750.0,debit
+2026-06-16,1mg Medicines,2395.0,debit
+2026-06-16,Nature's Basket,1908.0,debit
+2026-06-17,Airtel Xstream Broadband,1179.0,debit
+2026-06-17,Shell Fuel Station,354.0,debit
+2026-06-18,Nature's Basket,1235.0,debit
+2026-06-18,Blue Tokai Coffee,408.0,debit
+2026-06-19,Myntra Fashion,3260.0,debit
+2026-06-19,Social Bar & Kitchen,618.0,debit
+2026-06-20,Swiggy Order,502.0,debit
+2026-06-20,Google One Storage,210.0,debit
+2026-06-21,Nature's Basket,3041.0,debit
+2026-06-23,Zomato Restaurant,506.0,debit
+2026-06-23,Zepto Supermarket,1736.0,debit
+2026-06-24,Ola Cabs,1367.0,debit
+2026-06-24,Namma Metro Recharge,1398.0,debit
+2026-06-25,Ola Cabs,807.0,debit
+2026-06-25,Instamart Mart,1987.0,debit
+2026-06-26,Ola Cabs,786.0,debit
+2026-06-26,Zara Clothing,5121.0,debit
+2026-06-27,Instamart Mart,2128.0,debit
+2026-06-28,Starbucks Coffee,967.0,debit
+2026-06-28,Blue Tokai Coffee,956.0,debit
+2026-06-28,Zepto Supermarket,1197.0,debit
+2026-07-01,Salary Credit - TechCorp Solutions,125000.0,credit
+2026-07-02,Uber Ride,751.0,debit
+2026-07-03,BigBasket Order,1916.0,debit
+2026-07-03,Zara Clothing,2520.0,debit
+2026-07-05,Instamart Mart,1342.0,debit
+2026-07-05,Uniqlo Store,2046.0,debit
+2026-07-05,HDFC Bank Rent Auto-Debit,35000.0,debit
+2026-07-06,Amazon India,5156.0,debit
+2026-07-07,Social Bar & Kitchen,1030.0,debit
+2026-07-07,Blinkit Grocery,2827.0,debit
+2026-07-08,Blue Tokai Coffee,830.0,debit
+2026-07-08,Instamart Mart,2785.0,debit
+2026-07-08,Netflix Subscription,649.0,debit
+2026-07-09,Ola Cabs,551.0,debit
+2026-07-10,BESCOM Electricity Bill,2383.0,debit
+2026-07-10,Blue Tokai Coffee,445.0,debit
+2026-07-11,Ola Cabs,1130.0,debit
+2026-07-11,Social Bar & Kitchen,815.0,debit
+2026-07-11,Zomato Restaurant,967.0,debit
+2026-07-11,Third Wave Coffee,1082.0,debit
+2026-07-11,Zepto Supermarket,1832.0,debit
+2026-07-12,Blinkit Grocery,1691.0,debit
+2026-07-12,Spotify Premium AutoPay,119.0,debit
+2026-07-12,Swiggy Order,1079.0,debit
+2026-07-12,Blue Tokai Coffee,812.0,debit
+2026-07-13,Swiggy Order,841.0,debit
+2026-07-14,Blue Tokai Coffee,1093.0,debit
+2026-07-15,Myntra Fashion,2220.0,debit
+2026-07-15,Cult.fit Gym Membership,1750.0,debit
+2026-07-15,Ola Cabs,1036.0,debit
+2026-07-15,Zepto Supermarket,2041.0,debit
+2026-07-15,Social Bar & Kitchen,401.0,debit
+2026-07-16,Zepto Supermarket,2338.0,debit
+2026-07-16,Namma Metro Recharge,687.0,debit
+2026-07-17,Namma Metro Recharge,749.0,debit
+2026-07-17,Airtel Xstream Broadband,1179.0,debit
+2026-07-17,Uber Ride,1182.0,debit
+2026-07-17,Practo Consultation,2046.0,debit
+2026-07-17,Max Healthcare,2201.0,debit
+2026-07-18,Namma Metro Recharge,597.0,debit
+2026-07-18,Shell Fuel Station,441.0,debit
+2026-07-19,Nature's Basket,2256.0,debit
+2026-07-20,Max Healthcare,2337.0,debit
+2026-07-20,Google One Storage,210.0,debit
+2026-07-20,Blinkit Grocery,1969.0,debit
+2026-07-22,Nature's Basket,1987.0,debit
+2026-07-23,Uber Ride,831.0,debit
+2026-07-23,Social Bar & Kitchen,738.0,debit
+2026-07-24,Blinkit Grocery,2679.0,debit
+2026-07-25,Zomato Restaurant,1086.0,debit
+2026-07-25,Social Bar & Kitchen,707.0,debit
+2026-07-26,Amazon India,4688.0,debit
+2026-07-27,Blue Tokai Coffee,951.0,debit
+2026-07-27,Zepto Supermarket,2687.0,debit
+2026-07-27,Zara Clothing,3402.0,debit
+2026-07-27,Shell Fuel Station,1202.0,debit
+2026-07-28,BigBasket Order,1678.0,debit
+2026-07-28,Ola Cabs,885.0,debit
+2026-07-28,Starbucks Coffee,400.0,debit
+2026-08-01,Salary Credit - TechCorp Solutions,125000.0,credit
+2026-08-02,Uber Ride,966.0,debit
+2026-08-02,Starbucks Coffee,798.0,debit
+2026-08-02,Shell Fuel Station,1429.0,debit
+2026-08-02,Social Bar & Kitchen,803.0,debit
+2026-08-03,Third Wave Coffee,666.0,debit
+2026-08-03,BigBasket Order,1961.0,debit
+2026-08-04,Third Wave Coffee,1058.0,debit
+2026-08-04,Zepto Supermarket,3035.0,debit
+2026-08-04,Practo Consultation,1591.0,debit
+2026-08-05,HDFC Bank Rent Auto-Debit,35000.0,debit
+2026-08-05,Zara Clothing,4705.0,debit
+2026-08-06,Social Bar & Kitchen,1037.0,debit
+2026-08-06,Zomato Restaurant,872.0,debit
+2026-08-07,Instamart Mart,2024.0,debit
+2026-08-08,Uber Ride,562.0,debit
+2026-08-08,Namma Metro Recharge,774.0,debit
+2026-08-08,Netflix Subscription,649.0,debit
+2026-08-09,Ola Cabs,1219.0,debit
+2026-08-09,Zomato Restaurant,899.0,debit
+2026-08-09,Uber Ride,332.0,debit
+2026-08-09,Blinkit Grocery,2070.0,debit
+2026-08-10,Starbucks Coffee,831.0,debit
+2026-08-10,BESCOM Electricity Bill,2961.0,debit
+2026-08-10,Third Wave Coffee,846.0,debit
+2026-08-10,Zepto Supermarket,2275.0,debit
+2026-08-11,Uber Ride,1435.0,debit
+2026-08-12,Spotify Premium AutoPay,119.0,debit
+2026-08-12,Third Wave Coffee,745.0,debit
+2026-08-12,Third Wave Coffee,616.0,debit
+2026-08-13,Nature's Basket,1230.0,debit
+2026-08-14,Instamart Mart,1847.0,debit
+2026-08-15,Client Payout - Upwork Escrow,28000.0,credit
+2026-08-15,Cult.fit Gym Membership,1750.0,debit
+2026-08-16,Practo Consultation,641.0,debit
+2026-08-17,Instamart Mart,1776.0,debit
+2026-08-17,Airtel Xstream Broadband,1179.0,debit
+2026-08-18,BigBasket Order,2569.0,debit
+2026-08-19,Practo Consultation,525.0,debit
+2026-08-20,Myntra Fashion,1917.0,debit
+2026-08-20,Google One Storage,210.0,debit
+2026-08-20,Swiggy Order,1078.0,debit
+2026-08-21,Nature's Basket,2808.0,debit
+2026-08-21,Uber Ride,585.0,debit
+2026-08-23,Uniqlo Store,3124.0,debit
+2026-08-23,Zara Clothing,4799.0,debit
+2026-08-23,Blinkit Grocery,1747.0,debit
+2026-08-23,Third Wave Coffee,1095.0,debit
+2026-08-23,Uber Ride,1405.0,debit
+2026-08-24,Decathlon Sports,4982.0,debit
+2026-08-24,Myntra Fashion,1811.0,debit
+2026-08-25,BigBasket Order,980.0,debit
+2026-08-25,Third Wave Coffee,569.0,debit
+2026-08-25,Social Bar & Kitchen,959.0,debit
+2026-08-26,Uber Ride,756.0,debit
+2026-08-26,Shell Fuel Station,593.0,debit
+2026-08-27,BigBasket Order,924.0,debit
+2026-08-28,Uber Ride,1213.0,debit
+2026-08-28,Social Bar & Kitchen,829.0,debit
+2026-08-28,Zepto Supermarket,2497.0,debit
+2026-09-01,Salary Credit - TechCorp Solutions,125000.0,credit
+2026-09-02,Third Wave Coffee,1232.0,debit
+2026-09-03,Blinkit Grocery,2675.0,debit
+2026-09-03,Myntra Fashion,2680.0,debit
+2026-09-04,Myntra Fashion,1510.0,debit
+2026-09-05,Blue Tokai Coffee,1747.0,debit
+2026-09-05,HDFC Bank Rent Auto-Debit,35000.0,debit
+2026-09-05,BigBasket Order,1526.0,debit
+2026-09-05,Starbucks Coffee,1044.0,debit
+2026-09-06,Shell Fuel Station,424.0,debit
+2026-09-06,Swiggy Order,1655.0,debit
+2026-09-07,Starbucks Coffee,755.0,debit
+2026-09-07,Instamart Mart,3037.0,debit
+2026-09-07,Swiggy Order,1269.0,debit
+2026-09-07,Zomato Restaurant,1042.0,debit
+2026-09-08,Netflix Subscription,649.0,debit
+2026-09-09,Myntra Fashion,3760.0,debit
+2026-09-09,Uber Ride,1392.0,debit
+2026-09-09,Nature's Basket,3104.0,debit
+2026-09-10,Swiggy Order,743.0,debit
+2026-09-10,Practo Consultation,2113.0,debit
+2026-09-10,BESCOM Electricity Bill,3042.0,debit
+2026-09-11,BigBasket Order,2684.0,debit
+2026-09-11,Namma Metro Recharge,875.0,debit
+2026-09-11,Third Wave Coffee,1103.0,debit
+2026-09-11,Starbucks Coffee,1115.0,debit
+2026-09-11,Zomato Restaurant,855.0,debit
+2026-09-11,Zomato Restaurant,1164.0,debit
+2026-09-12,Spotify Premium AutoPay,119.0,debit
+2026-09-13,Zepto Supermarket,1905.0,debit
+2026-09-13,Starbucks Coffee,1579.0,debit
+2026-09-14,Namma Metro Recharge,1156.0,debit
+2026-09-14,Namma Metro Recharge,401.0,debit
+2026-09-14,Zepto Supermarket,2746.0,debit
+2026-09-15,Starbucks Coffee,1777.0,debit
+2026-09-15,Uniqlo Store,4323.0,debit
+2026-09-15,Client Payout - Upwork Escrow,42000.0,credit
+2026-09-15,Cult.fit Gym Membership,1750.0,debit
+2026-09-16,BigBasket Order,2452.0,debit
+2026-09-17,Apollo Pharmacy,1907.0,debit
+2026-09-17,Zomato Restaurant,1787.0,debit
+2026-09-17,Airtel Xstream Broadband,1179.0,debit
+2026-09-17,Starbucks Coffee,1552.0,debit
+2026-09-17,Uber Ride,383.0,debit
+2026-09-18,Croma Electronics Appliance Purchase,58500.0,debit
+2026-09-19,Blue Tokai Coffee,1248.0,debit
+2026-09-19,Blinkit Grocery,2924.0,debit
+2026-09-19,Starbucks Coffee,1737.0,debit
+2026-09-20,Uber Ride,560.0,debit
+2026-09-20,Google One Storage,210.0,debit
+2026-09-20,Uber Ride,1498.0,debit
+2026-09-21,Uniqlo Store,2692.0,debit
+2026-09-21,Instamart Mart,2897.0,debit
+2026-09-21,Ola Cabs,1320.0,debit
+2026-09-22,Ola Cabs,791.0,debit
+2026-09-22,Zepto Supermarket,1958.0,debit
+2026-09-23,Amazon India,2143.0,debit
+2026-09-23,Third Wave Coffee,1405.0,debit
+2026-09-24,Blue Tokai Coffee,1625.0,debit
+2026-09-24,Third Wave Coffee,1655.0,debit
+2026-09-24,Starbucks Coffee,1148.0,debit
+2026-09-24,Zomato Restaurant,1743.0,debit
+2026-09-25,Uber Ride,675.0,debit
+2026-09-25,Zepto Supermarket,2031.0,debit
+2026-09-25,Social Bar & Kitchen,1724.0,debit
+2026-09-25,Starbucks Coffee,1641.0,debit
+2026-09-25,Practo Consultation,1939.0,debit
+2026-09-26,Namma Metro Recharge,1491.0,debit
+2026-09-26,Nature's Basket,1682.0,debit
+2026-09-27,Swiggy Order,685.0,debit
+2026-09-28,Instamart Mart,2564.0,debit
